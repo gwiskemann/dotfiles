@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Gregory.wiskemann@gmail.com
+	name = Gregory Wiskemann
