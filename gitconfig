@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Gregory.wiskemann@gmail.com
+	email = gregory.wiskemann@gmail.com
 	name = Gregory Wiskemann
